@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790816847|3995491728';
+const CACHE_VERSION = '1790816991|4139312908';
 /** @type {string} */
 const CACHE_PREFIX = 'Quiz (4.4)-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
